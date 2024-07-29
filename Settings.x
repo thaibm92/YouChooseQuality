@@ -49,6 +49,10 @@ NSString *GetQualityString(int quality) {
 }
 
 BOOL IsEnabled() {
+    if (![[NSUserDefaults standardUserDefaults] objectForKey:EnabledKey]) {
+        // Nếu không có giá trị, đặt giá trị mặc định là YES
+    [[NSUserDefaults standardUserDefaults] setBool:YES forKey:EnabledKey];
+    }
     return [[NSUserDefaults standardUserDefaults] boolForKey:EnabledKey];
 }
 
