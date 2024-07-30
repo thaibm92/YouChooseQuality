@@ -1,7 +1,7 @@
 // Settings
 
 "ENABLED" = "ENABLED";
-"TWEAK_DESC" = "AUTO-SELECT THE VIDEO QUALITY";
+"TWEAK_DESC" = "AUTO-SELECT THE VIDEO QUALITY OF CHOISE";
 "QUALITY_FOR_SCENARIO_0" = "Video quality for Wi-Fi";
 "QUALITY_FOR_SCENARIO_1" = "Video quality for Cellular";
 "QUALITY_FOR_SCENARIO_2" = "Video quality for Wi-Fi with AirPlay";
