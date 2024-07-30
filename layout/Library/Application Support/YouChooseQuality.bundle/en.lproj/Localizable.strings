@@ -1,7 +1,7 @@
 // Settings
 
-"ENABLED" = "Enabled";
-"TWEAK_DESC" = "YouChooseQuality will select the exact or closest video quality to the one you choose for each scenario.";
+"ENABLED" = "ENABLED";
+"TWEAK_DESC" = "AUTO-SELECT THE VIDEO QUALITY";
 "QUALITY_FOR_SCENARIO_0" = "Video quality for Wi-Fi";
 "QUALITY_FOR_SCENARIO_1" = "Video quality for Cellular";
 "QUALITY_FOR_SCENARIO_2" = "Video quality for Wi-Fi with AirPlay";
